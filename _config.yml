@@ -44,8 +44,8 @@ swc_pages: "https://swcarpentry.github.io"
 swc_site: "https://software-carpentry.org"
 template_repo: "https://github.com/carpentries/styles"
 training_site: "https://carpentries.github.io/instructor-training"
-workshop_repo: "https://github.com/devbioinfoguy/2019-01-07-uark"
-workshop_site: "https://devbioinfoguy.github.io/2019-01-07-uark"
+workshop_repo: "https://github.com/software-carpentry-uark/2019-01-07-uark"
+workshop_site: "https://software-carpentry-uark.github.io/2019-01-07-uark/"
 
 # Surveys.
 swc_pre_survey: "https://www.surveymonkey.com/r/swc_pre_workshop_v1?workshop_id="
