@@ -600,6 +600,52 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 {% endcomment %}
 </div> {% comment %} End of 'Python' section. {% endcomment %}
 
+
+
+<div id="web_scraping"> {% comment %} Start of 'Web Scraping' section. {% endcomment %}
+  <h3>Web Scraping with Python</h3>
+
+  <p>
+    Web scraping is the activity of automating retrieval of information from
+     a web service designed for human interaction. This activity is one of the 
+     most common methods of data collection, but is made more difficult due to the
+     ever-evolving web.
+   </p>
+   
+   <p>
+   Please download the workshop materials from <a href="">Harvard University IQSS's workshops website</a> by
+   saving them on your desktop, and uncompress the zip archive using the built-in OS functions
+   or by using your favorite unzip tool.
+   </p> 
+    
+  
+</div> {% comment %} End of 'Web Scraping'  section. {% endcomment %}
+
+
+
+
+<div id="version_control"> {% comment %} Start of 'GitKraken version control' section. {% endcomment %}
+  <h3>Introduction to Version Control with Git/GitKraken</h3>
+
+  <p>
+    Version control can be used to keep track of versions of a piece of work that either a single person is working on, or a shared document. GitKraken is a GUI interface to the version control tool Git,
+    which mirrors the steps and vocabulary of Git but with an easier learning curve.
+   </p>
+   
+   <p> Please prepare by:
+<ol>
+<li><a href="https://www.gitkraken.com/download">Download and install GitKraken</a>.</li>
+<li>Create an account for yourself on <a href="http://github.com/">GitHub</a> or <a href="https://git.uark.edu/users/sign_in">your local GitLab</a>. If GitHub, please be sure to select the free/academic account, as this option has more long-term flexibility.</li>
+<li>Download the <a href="https://github.com/hbs-rcs/versioning_data_scripts/raw/master/data/DataFest2017.zip">workshop sample files</a></li>
+   </ol>
+   </p> 
+  
+</div> {% comment %} End of 'GitKraken version control'  section. {% endcomment %}
+
+
+
+
+
 <!--
 <div id="r"> {% comment %} Start of 'R' section. {% endcomment %}
   <h3>R</h3>
