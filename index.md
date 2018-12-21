@@ -613,8 +613,8 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
    </p>
    
    <p>
-   Please download the workshop materials from <a href="">Harvard University IQSS's workshops website</a> by
-   saving them on your desktop, and uncompress the zip archive using the built-in OS functions
+   Please download the <a href="http://tutorials.iq.harvard.edu/Python/PythonWebScrape.zip">workshop materials</a> from Harvard University IQSS's workshops website by
+   saving them on your desktop, and uncompressing the zip archive using the built-in OS functions
    or by using your favorite unzip tool.
    </p> 
       
@@ -635,7 +635,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 <ol>
 <li><a href="https://www.gitkraken.com/download">Download and install GitKraken</a>.</li>
 <li>Create an account for yourself on <a href="http://github.com/">GitHub</a> or <a href="https://git.uark.edu/users/sign_in">your local GitLab</a>. If GitHub, please be sure to select the free/academic account, as this option has more long-term flexibility.</li>
-<li>Download the <a href="https://github.com/hbs-rcs/versioning_data_scripts/raw/master/data/DataFest2017.zip">workshop sample files</a></li>
+<li>Download the <a href="https://github.com/hbs-rcs/versioning_data_scripts/raw/master/data/DataFest2017.zip">workshop sample files</a> to your desktop and uncompress them.</li>
    </ol>
    </p> 
   
