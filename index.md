@@ -617,8 +617,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
    saving them on your desktop, and uncompress the zip archive using the built-in OS functions
    or by using your favorite unzip tool.
    </p> 
-    
-  
+      
 </div> {% comment %} End of 'Web Scraping'  section. {% endcomment %}
 
 
